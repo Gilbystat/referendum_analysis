@@ -1,4 +1,3 @@
 # Brexit Referendum Analysis
-## NOTE: THIS WAS DONE IN 2017 AND IS NOT REFLECTIVE OF CURRENT PRACTICES
-
+## Performed in 2017 as part of the Computational Statistics module
 An analysis on the 2016 United Kingdom European Union membership referendum
