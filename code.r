@@ -1,21 +1,5 @@
 
-#               SAVVAS PAFITIS              # 
-#                   1501394                 # 
-#                 APRIL 2017                # 
-#          UNIVERSITY COLLEGE LONDON        #
-
-
-#
-#   The following code was used to conduct exploratory analysis on the
-#   data provided by Martin Rosenbaum. All information discussed in
-#   the summary report has been generated and extracted from this file
-#     
-#
-            
-
-
-
-
+Packages installation
 #  libraries
 #  if needed remove comments:
 
